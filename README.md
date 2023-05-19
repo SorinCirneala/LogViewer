@@ -1,2 +1,3 @@
 # LogViewer
-Simple application to help with examining logs, build with Python default modules
+Python app that allows examining logs in text format (txt, log, etc)
+Created with default Python modules, UI designed with Tkinter
